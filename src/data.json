@@ -1,0 +1,1152 @@
+{
+  "props": {
+    "pageProps": {
+      "pageData": {
+        "builderPageId": "c31c232f-f47a-42b8-acf8-8e08f2db3ab5",
+        "builderPageData": {
+          "site_id": null,
+          "page_id": "c31c232f-f47a-42b8-acf8-8e08f2db3ab5",
+          "title": "Копия: Копия: Копия: Elegant 2026 Red (KY) (KZ) (KZ)",
+          "blocks": [
+            {
+              "id": "d1416516-eb2d-463b-821a-a2878f720c8a",
+              "type": "container",
+              "position": 0,
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "backgroundImage": "/images/page_builder_block_background_21113690ae3345de893f018721195205.webp",
+                "minHeight": "500px",
+                "height": "5100px",
+                "margin": "0px",
+                "padding": "20px",
+                "borderRadius": "0px",
+                "border": "none",
+                "boxShadow": "none"
+              },
+              "components": [
+                {
+                  "id": "7fb0d07e-3617-49db-80b7-ebc3e8a9c5d8",
+                  "type": "button",
+                  "position": {
+                    "x": 50,
+                    "y": 43.47058823529413,
+                    "z": 88
+                  },
+                  "size": {
+                    "width": 219,
+                    "height": 44
+                  },
+                  "style": {},
+                  "data": {
+                    "backgroundColor": "#8d0c0c",
+                    "borderRadius": 90,
+                    "text": "Картаны ашу",
+                    "url": "https://2gis.kg/bishkek/firm/70000001101700480",
+                    "textColor": "#ffffff",
+                    "borderColor": "#8d0c0c",
+                    "borderWidth": 0,
+                    "openInNewTab": true,
+                    "fontSize": 16,
+                    "fontFamily": "KZOptima",
+                    "fontWeight": 600,
+                    "__animation": {
+                      "type": "fadeIn",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "34ab7086-779b-48d4-8370-b41812b7201f",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 53.49019607843136,
+                    "z": 247
+                  },
+                  "size": {
+                    "width": 329,
+                    "height": 95
+                  },
+                  "style": {
+                    "fontSize": "24px",
+                    "fontFamily": "\"KZ_RomulC\", Arial, sans-serif",
+                    "color": "#402a0c",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4",
+                    "opacity": 0.2
+                  },
+                  "data": {
+                    "content": "Тойға келуіңізді растауыңызды сұраймыз",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInRight",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "5a7fa862-78c0-412a-b1b4-6a15f2b36b4d",
+                  "type": "wishes-list",
+                  "position": {
+                    "x": 50,
+                    "y": 80.15686274509802,
+                    "z": 280
+                  },
+                  "size": {
+                    "width": 450,
+                    "height": 314
+                  },
+                  "style": {},
+                  "data": {
+                    "button_text": "БАРЛЫҚ ТІЛЕКТЕРДІ ОҚУ",
+                    "title_color": "#3D2314",
+                    "card_bg_color": "#ffffff",
+                    "button_color": "#8d0c0c",
+                    "font_family": "TildaSans-Light",
+                    "auto_scroll_interval": 3000,
+                    "form_lang": "kz"
+                  }
+                },
+                {
+                  "id": "c583d8dc-60f1-4a1e-b6bb-225acff4fd43",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 10.450980392156879,
+                    "z": 298
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 90
+                  },
+                  "style": {
+                    "fontSize": "22px",
+                    "fontFamily": "\"KZ_RomulC\", Arial, sans-serif",
+                    "color": "#3d2314",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Qyz uzatu",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "7b571986-b385-4280-8fc3-50921c2a8060",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 9.862745098039229,
+                    "z": 299
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 235
+                  },
+                  "style": {
+                    "fontSize": "74px",
+                    "fontFamily": "\"KZ-Ceremonious-One\", Arial, sans-serif",
+                    "color": "#871221",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Ләзима",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "e87131fe-2611-43c2-8758-b4f3d728b1af",
+                  "type": "image",
+                  "position": {
+                    "x": -1.9999999999999973,
+                    "y": 22.686274509803923,
+                    "z": 301
+                  },
+                  "size": {
+                    "width": 267,
+                    "height": 284
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1770662182109_dfa09a85de8345d695511209d9c1ad29.webp",
+                    "alt": "Gemini_Generated_Image_xyxtskxyxtskxyxt-Photoroom.png",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "fdca9afd-d29f-49a4-a889-2d931b673f80",
+                  "type": "image",
+                  "position": {
+                    "x": -12.266666666666666,
+                    "y": 15.529411764705884,
+                    "z": 303
+                  },
+                  "size": {
+                    "width": 92,
+                    "height": 81
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover",
+                    "transform": "rotate(0deg)"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1770662352135_ae1e7fb336074cb49f3fec123a5dd6ea.webp",
+                    "alt": "44db1e2492de3a141af4cb3eb5ac786f-Photoroom.png",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true
+                  }
+                },
+                {
+                  "id": "0d10b964-12cf-4527-89c9-63d985d3e513",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 18.21568627450981,
+                    "z": 305
+                  },
+                  "size": {
+                    "width": 383,
+                    "height": 90
+                  },
+                  "style": {
+                    "fontSize": "22px",
+                    "fontFamily": "\"TildaSans-Light\", Arial, sans-serif",
+                    "color": "#3d2314",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "ҚҰРМЕТТІ АҒАЙЫН-ТУЫС, БАУЫРЛАР, ҚҰДА-ЖЕКЖАТ, НАҒАШЫ-ЖИЕН, БӨЛЕЛЕР, ҚҰРБЫ-ҚҰРДАС, АПКЕ-ЖЕЗДЕЛЕР, ДОС-ЖАРАНДАР, ӘРІПТЕСТЕР, КӨРШІЛЕР!\n\nСіз(дер)ді қызымыз Ләзиманың ұзату тойына арналған салтанатты ақ дастарханымыздың қадірлі қонағы болуға шақырамыз.",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInRight",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "1524b5e2-b649-44ee-916e-af2a8deaff26",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 22.921568627450984,
+                    "z": 306
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 134
+                  },
+                  "style": {
+                    "fontSize": "38px",
+                    "fontFamily": "\"KZGoodVibes\", Arial, sans-serif",
+                    "color": "#3d2314",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Өтетін күні:",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "057596e3-427d-449a-90c6-162fe5ba181d",
+                  "type": "image",
+                  "position": {
+                    "x": 135.6,
+                    "y": 52.9607843137255,
+                    "z": 316
+                  },
+                  "size": {
+                    "width": 267,
+                    "height": 284
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1770662182109_dfa09a85de8345d695511209d9c1ad29.webp",
+                    "alt": "Gemini_Generated_Image_xyxtskxyxtskxyxt-Photoroom.png",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "b4ae1430-2ab4-455f-be22-6b9a968bbf9e",
+                  "type": "image",
+                  "position": {
+                    "x": 50,
+                    "y": 92.35294117647057,
+                    "z": 318
+                  },
+                  "size": {
+                    "width": 440,
+                    "height": 508
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776794215441_9913b542d02c4196841b6e2c9d7e0e11.webp",
+                    "alt": "WhatsApp_Image_2026- (1).jpeg",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "tornEdge": {
+                      "top": true,
+                      "bottom": true,
+                      "variant": "torn1",
+                      "height": 35,
+                      "seed": 1,
+                      "angle": 0
+                    }
+                  }
+                },
+                {
+                  "id": "339cd745-1eef-4169-a660-3a92ed69ad1e",
+                  "type": "image",
+                  "position": {
+                    "x": 128.66666666666666,
+                    "y": 58.92156862745098,
+                    "z": 320
+                  },
+                  "size": {
+                    "width": 215,
+                    "height": 229
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1770662182109_dfa09a85de8345d695511209d9c1ad29.webp",
+                    "alt": "Gemini_Generated_Image_xyxtskxyxtskxyxt-Photoroom.png",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "23e416cf-9ae4-4177-bb81-f5f4959bc026",
+                  "type": "shape",
+                  "position": {
+                    "x": 47.06666666666666,
+                    "y": 90.05882352941174,
+                    "z": 324
+                  },
+                  "size": {
+                    "width": 492,
+                    "height": 220
+                  },
+                  "style": {
+                    "backgroundColor": "#4e0d11",
+                    "border": "none",
+                    "borderColor": "#000000",
+                    "borderWidth": "0px",
+                    "borderRadius": "0px",
+                    "borderStyle": "none",
+                    "filter": "blur(100px)",
+                    "opacity": 0.8
+                  },
+                  "data": {
+                    "shapeType": "circle"
+                  }
+                },
+                {
+                  "id": "a1e16fa1-d985-44bd-b366-f0c30ab251f6",
+                  "type": "shape",
+                  "position": {
+                    "x": 50,
+                    "y": 92.2156862745098,
+                    "z": 326
+                  },
+                  "size": {
+                    "width": 492,
+                    "height": 115
+                  },
+                  "style": {
+                    "backgroundColor": "#4e0d11",
+                    "border": "none",
+                    "borderColor": "#000000",
+                    "borderWidth": "0px",
+                    "borderRadius": "0px",
+                    "borderStyle": "none",
+                    "filter": "blur(56px)",
+                    "opacity": 0.8
+                  },
+                  "data": {
+                    "shapeType": "circle"
+                  }
+                },
+                {
+                  "id": "b8f3a018-c1f4-4466-ae0f-af7e3aed216f",
+                  "type": "timer",
+                  "position": {
+                    "x": 50,
+                    "y": 92.62745098039215,
+                    "z": 327
+                  },
+                  "size": {
+                    "width": 481,
+                    "height": 165
+                  },
+                  "style": {
+                    "backgroundColor": "#ffffff",
+                    "color": "#ffffff",
+                    "borderRadius": "8px",
+                    "transform": "rotate(0deg)"
+                  },
+                  "data": {
+                    "event_date": "2025-12-14T17:00:00",
+                    "event_title": "Тойға дейін қалды:",
+                    "timezone": "Asia/Almaty",
+                    "show_days": true,
+                    "show_hours": true,
+                    "show_minutes": true,
+                    "show_seconds": true,
+                    "timerLanguage": "kz",
+                    "backgroundColor": "transparent",
+                    "borderRadius": 8,
+                    "titleFontSize": 18,
+                    "titleFontFamily": "TildaSans-Regular",
+                    "titleColor": "#ffffff",
+                    "numbersFontSize": 33,
+                    "numbersFontFamily": "TildaSans-Regular",
+                    "numbersColor": "#ffffff",
+                    "labelsFontSize": 12,
+                    "labelsFontFamily": "TildaSans-Regular",
+                    "labelsColor": "#ffffff",
+                    "showLabels": true,
+                    "spacing": 19,
+                    "__animation": {
+                      "type": "fadeIn",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "790ba73b-a357-4887-9d42-886775351ec8",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 75.49019607843135,
+                    "z": 333
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 129
+                  },
+                  "style": {
+                    "fontSize": "36px",
+                    "fontFamily": "\"KZGoodVibes\", Arial, sans-serif",
+                    "color": "#3d2314",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "ізгі тілектер:",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "905493ed-7a5a-4fab-8e1f-db7059a468b8",
+                  "type": "audio-fixed",
+                  "position": {
+                    "x": -26.666666666666668,
+                    "y": 79.74509803921569,
+                    "z": 339
+                  },
+                  "size": {
+                    "width": 200,
+                    "height": 80
+                  },
+                  "style": {},
+                  "data": {
+                    "audio_url": "https://shaqyru.kz/sounds/1687438038.mp3",
+                    "button_text": "Әуен қосу",
+                    "button_color": "#8d0c0c",
+                    "text_color": "#ffffff",
+                    "font_family": "KZOptima",
+                    "font_size": 17,
+                    "button_height": 54
+                  }
+                },
+                {
+                  "id": "45ca8af8-32ee-442d-b944-0b3f33be5084",
+                  "type": "fixed-wishes",
+                  "position": {
+                    "x": 126.66666666666667,
+                    "y": 80.64705882352942,
+                    "z": 340
+                  },
+                  "size": {
+                    "width": 200,
+                    "height": 80
+                  },
+                  "style": {},
+                  "data": {
+                    "button_text": "ТІЛЕК ЖАЗУ",
+                    "button_color": "#8d0c0c",
+                    "text_color": "#ffffff",
+                    "font_family": "KZOptima",
+                    "font_size": 17,
+                    "button_height": 54,
+                    "component_language": "kz"
+                  }
+                },
+                {
+                  "id": "eba3f440-ed92-4f4d-8ce9-e933c8a1d450",
+                  "type": "form2",
+                  "position": {
+                    "x": 50,
+                    "y": 59.921568627450974,
+                    "z": 341
+                  },
+                  "size": {
+                    "width": 400,
+                    "height": 400
+                  },
+                  "style": {},
+                  "data": {
+                    "form_id": "241178dc-8306-4434-8367-07acceb99e1d",
+                    "form_fields": [
+                      {
+                        "id": "1",
+                        "field_type": "text",
+                        "field_label": "Есіміңіз",
+                        "placeholder": "Есіміңізді енгізіңіз",
+                        "is_required": true,
+                        "field_name": "field_1"
+                      }
+                    ],
+                    "form_buttons": [
+                      {
+                        "id": "1",
+                        "button_text": "Иә, барамын!",
+                        "button_value": "yes"
+                      },
+                      {
+                        "id": "2",
+                        "button_text": "Жұбайыммен бірге барамын",
+                        "button_value": "no"
+                      },
+                      {
+                        "id": "3",
+                        "button_text": "Өкінішке орай, келе алмаймын",
+                        "button_value": "maybe"
+                      }
+                    ],
+                    "field_fontSize": 12,
+                    "field_fontFamily": "KZOptima",
+                    "field_color": "#8d0c0c",
+                    "field_backgroundColor": "#ffffff",
+                    "field_borderColor": "#8d0c0c",
+                    "field_borderRadius": 24,
+                    "button_fontSize": 12,
+                    "button_fontFamily": "KZOptima",
+                    "label_fontSize": 12,
+                    "label_fontFamily": "KZOptima",
+                    "label_color": "#8d0c0c",
+                    "formLang": "kz",
+                    "lang": "kz",
+                    "mainColor": "#8d0c0c",
+                    "submit_button_text": "ЖАУАП БЕРУ",
+                    "modal_button_text": "ЖІБЕРУ",
+                    "modal_title": "Есіміңізді жазыңыз:",
+                    "submit_button_backgroundColor": "#8d0c0c",
+                    "submit_button_textColor": "#ffffff",
+                    "submit_button_borderRadius": 24,
+                    "submit_button_fontSize": 14,
+                    "submit_button_fontFamily": "KZOptima",
+                    "option_fontSize": 16,
+                    "option_fontFamily": "KZOptima",
+                    "option_color": "#3d3833",
+                    "option_borderRadius": 24,
+                    "option_height": 56,
+                    "submit_button_height": 56,
+                    "field_height": 48,
+                    "field_borderWidth": 2,
+                    "button_color": "#8d0c0c"
+                  }
+                },
+                {
+                  "id": "f0b66701-8876-4b04-ad46-c20224ef35e7",
+                  "type": "image",
+                  "position": {
+                    "x": 50,
+                    "y": 2.5686274509803932,
+                    "z": 343
+                  },
+                  "size": {
+                    "width": 457,
+                    "height": 645
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776791457003_ecda32113e114913a358729a9b28e4e4.webp",
+                    "alt": "__32.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true
+                  }
+                },
+                {
+                  "id": "1193568b-5c3c-47fb-b78a-6119773970bf",
+                  "type": "image",
+                  "position": {
+                    "x": 4.666666666666663,
+                    "y": -0.019607843137254888,
+                    "z": 344
+                  },
+                  "size": {
+                    "width": 327,
+                    "height": 462
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776791557186_faefe3162ffc4e9683f10003145882d6.webp",
+                    "alt": "__33.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "d7427420-e37f-42f9-b5dc-88fa31f39df4",
+                  "type": "image",
+                  "position": {
+                    "x": 101.60000000000001,
+                    "y": 6.5882352941176485,
+                    "z": 345
+                  },
+                  "size": {
+                    "width": 327,
+                    "height": 462
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776791557186_faefe3162ffc4e9683f10003145882d6.webp",
+                    "alt": "__33.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "df1dfbea-5005-48a3-a08c-65e94cf22e3d",
+                  "type": "image",
+                  "position": {
+                    "x": 50,
+                    "y": 68.67647058823529,
+                    "z": 346
+                  },
+                  "size": {
+                    "width": 426,
+                    "height": 602
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776792531033_6b0f60f854b24c7eae30c4044bfcba32.webp",
+                    "alt": "10.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true
+                  }
+                },
+                {
+                  "id": "400169f1-1522-4582-b1bd-e83f2308946e",
+                  "type": "image",
+                  "position": {
+                    "x": 50,
+                    "y": 12.843137254901958,
+                    "z": 347
+                  },
+                  "size": {
+                    "width": 151,
+                    "height": 213
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776792778245_aad814482cb445828b6e07516fdfb241.webp",
+                    "alt": "9.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 13.2,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "25cb66d0-450d-4772-98f0-761debb5f3f5",
+                  "type": "image",
+                  "position": {
+                    "x": 50,
+                    "y": 41.21568627450981,
+                    "z": 348
+                  },
+                  "size": {
+                    "width": 450,
+                    "height": 563
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776793038951_3fec8179944a41d1a5799fe387a02001.webp",
+                    "alt": "WhatsApp_Image_2026-.jpeg",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "tornEdge": {
+                      "top": true,
+                      "bottom": true,
+                      "variant": "torn1",
+                      "height": 35,
+                      "seed": 1,
+                      "angle": 0
+                    }
+                  }
+                },
+                {
+                  "id": "99900867-4569-463c-993a-cd24942249b1",
+                  "type": "shape",
+                  "position": {
+                    "x": 50,
+                    "y": 40.725490196078425,
+                    "z": 352
+                  },
+                  "size": {
+                    "width": 426,
+                    "height": 230
+                  },
+                  "style": {
+                    "backgroundColor": "#41121d",
+                    "border": "none",
+                    "borderColor": "#000000",
+                    "borderWidth": "0px",
+                    "borderRadius": "0px",
+                    "maskImage": "none",
+                    "WebkitMaskImage": "none",
+                    "filter": "blur(31px)",
+                    "opacity": 0.9
+                  },
+                  "data": {
+                    "shapeType": "circle",
+                    "__animation": {
+                      "type": "fadeIn",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "57080ead-4f0d-4a8b-b9ba-2d1503bf15fa",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 39.90196078431374,
+                    "z": 353
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 95
+                  },
+                  "style": {
+                    "fontSize": "24px",
+                    "fontFamily": "\"TildaSans-Light\", Arial, sans-serif",
+                    "color": "#ffffff",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Қарағанды обылысы, Нура ауданы",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "d25a52d6-2ca8-4427-ac17-a3d5f78257c7",
+                  "type": "text",
+                  "position": {
+                    "x": 52.13333333333333,
+                    "y": 38.58823529411766,
+                    "z": 354
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 129
+                  },
+                  "style": {
+                    "fontSize": "36px",
+                    "fontFamily": "\"KZGoodVibes\", Arial, sans-serif",
+                    "color": "#ffffff",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Мекен жайымыз:",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInRight",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "dc24b780-cd78-4574-8983-2072880b39fa",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 41.490196078431374,
+                    "z": 355
+                  },
+                  "size": {
+                    "width": 313,
+                    "height": 95
+                  },
+                  "style": {
+                    "fontSize": "24px",
+                    "fontFamily": "\"TildaSans-Light\", Arial, sans-serif",
+                    "color": "#ffffff",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": " ‘’Береке’’ рестораны ",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "558f3df0-31dc-403d-a798-da4aeec8c767",
+                  "type": "image",
+                  "position": {
+                    "x": 113.73333333333333,
+                    "y": 44.27450980392157,
+                    "z": 356
+                  },
+                  "size": {
+                    "width": 327,
+                    "height": 462
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776791557186_faefe3162ffc4e9683f10003145882d6.webp",
+                    "alt": "__33.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "55be9b04-d210-409d-8af5-ddea90a3e944",
+                  "type": "image",
+                  "position": {
+                    "x": -14.800000000000002,
+                    "y": 94.92156862745098,
+                    "z": 357
+                  },
+                  "size": {
+                    "width": 327,
+                    "height": 462
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776791557186_faefe3162ffc4e9683f10003145882d6.webp",
+                    "alt": "__33.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 30,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "7a7d0974-8125-4c8d-90b9-9f378e752fad",
+                  "type": "text",
+                  "position": {
+                    "x": 53.733333333333334,
+                    "y": 68.07843137254905,
+                    "z": 358
+                  },
+                  "size": {
+                    "width": 336,
+                    "height": 84
+                  },
+                  "style": {
+                    "fontSize": "20px",
+                    "fontFamily": "\"KZ_RomulC\", Arial, sans-serif",
+                    "color": "#ffffff",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Той иелері:",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInLeft",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "a3fac086-0bf2-4d5f-9da3-4282bba652aa",
+                  "type": "text",
+                  "position": {
+                    "x": 50,
+                    "y": 69.49019607843138,
+                    "z": 359
+                  },
+                  "size": {
+                    "width": 400,
+                    "height": 174
+                  },
+                  "style": {
+                    "fontSize": "40px",
+                    "fontFamily": "\"_AsylbekM02Shelley\", Arial, sans-serif",
+                    "color": "#ffffff",
+                    "textAlign": "center",
+                    "fontWeight": "normal",
+                    "lineHeight": "1.4"
+                  },
+                  "data": {
+                    "content": "Даниал мен Тұрсынгүл",
+                    "tag": "p",
+                    "__animation": {
+                      "type": "slideInRight",
+                      "duration": 3,
+                      "isInfinite": false
+                    }
+                  }
+                },
+                {
+                  "id": "35212af5-5119-49b5-8b9f-f8e2ef383865",
+                  "type": "image",
+                  "position": {
+                    "x": 50,
+                    "y": 49.058823529411754,
+                    "z": 360
+                  },
+                  "size": {
+                    "width": 151,
+                    "height": 213
+                  },
+                  "style": {
+                    "borderRadius": "0px",
+                    "objectFit": "cover"
+                  },
+                  "data": {
+                    "src": "/images/page_builder_comp_1776792778245_aad814482cb445828b6e07516fdfb241.webp",
+                    "alt": "9.png.webp",
+                    "cropMode": "original",
+                    "isPhoto": false,
+                    "autoSized": true,
+                    "__animation": {
+                      "type": "spin",
+                      "duration": 13.2,
+                      "isInfinite": true
+                    }
+                  }
+                },
+                {
+                  "id": "1a2fa81a-0209-4b62-a68b-4bf2087fe212",
+                  "type": "calendar",
+                  "position": {
+                    "x": 50,
+                    "y": 28.372549019607842,
+                    "z": 361
+                  },
+                  "size": {
+                    "width": 381,
+                    "height": 420
+                  },
+                  "style": {},
+                  "data": {
+                    "backgroundColor": "transparent",
+                    "borderRadius": 8,
+                    "titleFontSize": 16,
+                    "titleFontFamily": "KZPFMonumentaPro-Regular",
+                    "titleColor": "#3d2314",
+                    "calendarLanguage": "kz",
+                    "event_dates": [
+                      {
+                        "date": "2025-12-14",
+                        "time": "17:00",
+                        "title": null,
+                        "description": null
+                      }
+                    ],
+                    "padding": 20,
+                    "titleText": "",
+                    "weekdaysFontSize": 12,
+                    "weekdaysFontFamily": "KZPFMonumentaPro-Regular",
+                    "weekdaysColor": "#3d2314",
+                    "daysFontSize": 14,
+                    "daysFontFamily": "KZPFMonumentaPro-Regular",
+                    "daysColor": "#3d2314",
+                    "eventMarkerType": "heart",
+                    "eventMarkerColor": "#ba4545",
+                    "eventMarkerSize": 40
+                  }
+                }
+              ]
+            }
+          ],
+          "created_at": "2026-04-22T19:49:50.518542",
+          "updated_at": "2026-04-22T19:49:50.518542",
+          "is_published": true,
+          "published_at": "2026-04-22T19:49:50.518542",
+          "meta_tags": {
+            "og_title": "Қыз ұзату",
+            "og_description": "Шақыру",
+            "og_image": "https://tyrasoft.kzhttps://tyrasoft.kz/uploads/compressed_toitrend_43432.jpg"
+          },
+          "is_paid": false
+        },
+        "mode": "public",
+        "lang": "kz",
+        "siteId": null,
+        "status": "demo",
+        "isPaid": false,
+        "siteCategory": null,
+        "audioLink": null,
+        "siteSlug": null,
+        "metaTags": {
+          "og_title": "Қыз ұзату",
+          "og_description": "Шақыру",
+          "og_image": "https://tyrasoft.kzhttps://tyrasoft.kz/uploads/compressed_toitrend_43432.jpg"
+        }
+      },
+      "error": null
+    },
+    "__N_SSP": true
+  },
+  "page": "/view",
+  "query": {
+    "builder_page_id": "c31c232f-f47a-42b8-acf8-8e08f2db3ab5",
+    "site_id": "43432",
+    "status": "demo",
+    "temp_builder_page_id": "45319406-7084-4133-919f-1108ec4572d9",
+    "interface_lang": "kz",
+    "invitation_lang": "kz",
+    "category_name": "toi",
+    "child_category": "bachelorette"
+  },
+  "buildId": "KipeWVRGny6dSl7E6bXsk",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gssp": true,
+  "scriptLoader": []
+}
