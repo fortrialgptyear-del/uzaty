@@ -176,7 +176,7 @@ const FormContainer = ({ comp, baseStyle }) => {
   };
 
   return (
-    <div style={{...baseStyle, display: 'flex', flexDirection: 'column', gap: '10px', alignItems: 'center', transform: 'translate(-50%, -50%)', fontFamily: '"Cormorant Garamond", serif'}}>
+    <div style={{...baseStyle, display: 'flex', flexDirection: 'column', gap: '10px', alignItems: 'center', transform: 'translate(-50%, -50%)', fontFamily: '"Cormorant Garamond", serif', width: '90%'}}>
        <input 
           placeholder="Есіміңізді енгізіңіз" 
           value={name}
@@ -280,7 +280,7 @@ const BlockRenderer = ({ comp }) => {
         textAlign: 'center',
         ...getAnimation(comp.data?.__animation)
       }}>
-        Ұядан ұшқан құс
+        Ұядан ұшқан күн
       </div>
     );
   }
