@@ -261,7 +261,7 @@ const BlockRenderer = ({ comp }) => {
   let transformOverride = 'translate(-50%, -50%)';
   
   // User requested to remove overlap on the first screen and keep it inside the whitespace
-  if (comp.data?.content === 'Ләзима') finalY = 9.0; 
+  if (comp.data?.content === 'Лазима') finalY = 9.0; 
   if (comp.data?.content === 'Qyz uzatu') {
     return (
       <div style={{
@@ -414,7 +414,7 @@ const BlockRenderer = ({ comp }) => {
             СІЗДЕРДІ БЕРЕКЕЛІ ШАҢЫРАҚТА<br/>БОЙЖЕТКЕН АЯУЛЫ
           </div>
           <div style={{fontFamily: '"Marck Script", cursive', fontSize: '64px', color: '#8d0c0c', textAlign: 'center', margin: '5px 0', lineHeight: '1'}}>
-            Ләзима
+            Лазима
           </div>
           <div style={{fontFamily: '"Cormorant Garamond", serif', fontSize: '18px', color: '#3d2314', textAlign: 'center', lineHeight: '1.4', textTransform: 'uppercase'}}>
             ҚЫЗЫМЫЗДЫ АТА-АНАСЫНЫҢ<br/>АЯЛЫ АЛАҚАНЫНАН ҚҰТТЫ<br/>БОСАҒАСЫНА ШЫҒАРЫП САЛУ<br/>РӘСІМІНЕ АРНАЛҒАН<br/>САЛТАНАТТЫ ДАСТАРХАННЫҢ<br/>ҚАДІРЛІ ҚОНАҒЫ БОЛУҒА<br/>ШАҚЫРАМЫЗ!
@@ -588,3 +588,4 @@ function App() {
 }
 
 export default App;
+// Trigger Vite reload
