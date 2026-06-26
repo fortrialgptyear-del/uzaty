@@ -466,17 +466,17 @@ const BlockRenderer = ({ comp }) => {
           </div>
 
           <div style={{fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: '28px', color: '#1a1a1a', textAlign: 'center', lineHeight: '1.2', zIndex: 1}}>
-            Ата-әжесі
-          </div>
-          <div style={{fontFamily: '"Cormorant Garamond", serif', fontSize: '36px', fontWeight: '500', color: '#1a1a1a', textAlign: 'center', lineHeight: '1.2', zIndex: 1}}>
-            Умбетхан - Бижамал
-          </div>
-
-          <div style={{fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: '28px', color: '#1a1a1a', textAlign: 'center', lineHeight: '1.2', zIndex: 1, marginTop: '15px'}}>
             Той иелері
           </div>
           <div style={{fontFamily: '"Cormorant Garamond", serif', fontSize: '36px', fontWeight: '500', color: '#1a1a1a', textAlign: 'center', lineHeight: '1.2', zIndex: 1}}>
             Тойшыбай - Октябрь
+          </div>
+
+          <div style={{fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', fontSize: '28px', color: '#1a1a1a', textAlign: 'center', lineHeight: '1.2', zIndex: 1, marginTop: '15px'}}>
+            Ата-әжесі
+          </div>
+          <div style={{fontFamily: '"Cormorant Garamond", serif', fontSize: '36px', fontWeight: '500', color: '#1a1a1a', textAlign: 'center', lineHeight: '1.2', zIndex: 1}}>
+            Умбетхан - Бижамал
           </div>
         </div>
       );
